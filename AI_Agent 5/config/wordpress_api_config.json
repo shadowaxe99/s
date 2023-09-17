@@ -1,0 +1,5 @@
+{
+  "api_base_url": "https://your-wordpress-site.com/wp-json",
+  "username": "your_username",
+  "password": "your_password"
+}
